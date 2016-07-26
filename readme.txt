@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 
 user2 edit..
+user1 edit..
